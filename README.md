@@ -2,6 +2,26 @@
 
 A secure, governed data lakehouse pipeline for Ghanaian fintech KYC data, built on Databricks Unity Catalog.
 
+
+## The Problem
+
+Ghanaian fintechs, banks and mobile money providers collect sensitive KYC data — Ghana Card numbers,
+phone numbers, transaction history — but most platforms have certain compounding gaps:
+
+No governance over who sees sensitive data.**
+PII ends up scattered across spreadsheets, exports, and analysts' laptops with no access
+control beyond "who has the password." A single careless export of raw Ghana Card numbers
+is a serious incident under Ghana's Data Protection Act, 2012 (Act 843) — and most teams
+can't quickly answer a regulator's most basic question: *who accessed this customer's data,
+and when?*
+
+
+
+## What PayGhana Does
+
+PayGhana Secure Data Lake addresses these gaps: a governed Bronze/Silver/Gold lakehouse with
+masking, row-level access control, and a full audit trail (Databricks).
+
 ## What's in this repo
 
 - **`PayGhana KYC Synthetic Data Pipeline`** — a Databricks notebook that:
