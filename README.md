@@ -43,4 +43,4 @@ The KYC records and login events are entirely synthetic (Faker-generated) — no
 
 ## Regulatory context
 
-Built with Ghana's Data Protection Act, 2012 (Act 843) and Bank of Ghana's fintech oversight in mind — specifically the ability to answer "where is this customer's data, and who has accessed it," which is the kind of question a DPC audit or a BoG Cyber and Information Security Directive review would ask. Exact statute section numbers should be verified against the primary source before being cited elsewhere (e.g., a thesis or CV) — see the project's main README for a longer note on this.
+Built with Ghana's Data Protection Act, 2012 (Act 843) and Bank of Ghana's fintech oversight in mind — specifically the ability to answer "where is this customer's data, and who has accessed it," which is the kind of question a DPC audit or a BoG Cyber and Information Security Directive review would ask. 
