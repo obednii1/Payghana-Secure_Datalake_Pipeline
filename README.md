@@ -8,7 +8,7 @@ A secure, governed data lakehouse pipeline for Ghanaian fintech KYC data, built 
 Ghanaian fintechs, banks and mobile money providers collect sensitive KYC data — Ghana Card numbers,
 phone numbers, transaction history — but most platforms have certain compounding gaps:
 
-No governance over who sees sensitive data.**
+No governance over who sees sensitive data.
 PII ends up scattered across spreadsheets, exports, and analysts' laptops with no access
 control beyond "who has the password." A single careless export of raw Ghana Card numbers
 is a serious incident under Ghana's Data Protection Act, 2012 (Act 843) — and most teams
